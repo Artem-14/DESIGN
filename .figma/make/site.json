@@ -1,0 +1,10 @@
+{
+  "description": "A Telegram-integrated fitness app offering clients seamless session booking and progress tracking while enabling trainers to manage schedules, clients, and earnings efficiently.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
